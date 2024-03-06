@@ -1,0 +1,11 @@
+This file contains instruction in how to push your code from local repo to remote repository
+1. Create a directory and create some files on your local machine or import them from another folder
+2. Add those files to your directory
+3. Commit those files to your local repo ---rem to add commit message. This message is very 
+critical because it will guide those who will access your repo and know what to do.
+4. Create a remote repository on github --ensure you have an account first on github
+5. Link your remote repository with your local repo
+6. Push your files in your local repo to remote repository
+7. While working on remote reposiroty, you can add other files on your repo
+8. Fetch and pull those additions in your remote repository to your local repository and make some more
+changes.
